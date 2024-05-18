@@ -1,0 +1,82 @@
+name,gender,age,symptoms,placebo,covidNegative,observations,healTime
+John Doe,Male,45,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Chills, Sore throat",False,True,None,14
+Jane Smith,Female,32,"Cough, Fever, Body aches,Headache, Loss of taste",False,True,Mild nausea and headache,10
+Michael Johnson,Male,53,"Fever, Fatigue, Dry cough,Shortness of breath, Sore throat",True,True,None,12
+Jessica Brown,Female,40,"Fever, Cough, Loss of smell, Fatigue, Sore throat",True,False,Increased heart rate and dizziness,16
+William Wilson,Male,58,"Cough, Fever, Fatigue, Shortness of breath, Loss of taste",False,True,None,15
+Elizabeth Taylor,Female,35,"Fever, Headache, Loss of smell, Body aches, Sore throat",False,True,None,13
+David Martinez,Male,49,"Fever, Cough, Fatigue, Loss of appetite, Shortness of breath",False,True,None,14
+Emma Anderson,Female,29,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Loss of taste",False,False,None,20
+James Jackson,Male,51,"Fever, Dry cough, Fatigue, Loss of smell, Sore throat",True,True,None,14
+Olivia Thomas,Female,42,"Fever, Cough, Fatigue, Loss of taste, Shortness of breath",False,False,None,18
+Benjamin Harris,Male,47,"Fever, Cough, Fatigue, Shortness of breath, Chills",False,False,None,17
+Evelyn White,Female,39,"Fever, Cough, Fatigue, Loss of smell, Sore throat",False,True,None,16
+Alexander Garcia,Male,56,"Fever, Cough, Fatigue, Shortness of breath, Loss of taste",False,False,None,15
+Mia Martinez,Female,30,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",False,True,None,14
+Charlotte Rodriguez,Female,36,"Fever, Cough, Fatigue, Loss of smell, Sore throat",False,False,None,19
+Daniel Brown,Male,41,"Fever, Cough, Fatigue, Shortness of breath, Loss of taste",False,True,None,13
+Amelia Johnson,Female,44,"Fever, Cough, Fatigue, Loss of smell, Sore throat",True,False,None,16
+Sophia Martinez,Female,33,"Fever, Cough, Fatigue, Loss of taste, Sore throat",True,False,None,15
+Noah Johnson,Male,48,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,True,None,14
+Isabella Anderson,Female,37,"Fever, Cough, Fatigue, Loss of smell, Sore throat",False,False,None,18
+Ethan Thompson,Male,55,"Fever, Cough, Fatigue, Loss of smell, Sore throat",True,True,None,17
+Ava Garcia,Female,28,"Fever, Cough, Fatigue, Loss of taste, Sore throat",True,False,None,16
+Jacob Wilson,Male,50,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",True,True,None,13
+Mia Thomas,Female,31,"Fever, Cough, Fatigue, Loss of smell, Sore throat",False,True,None,14
+Emily Taylor,Female,46,"Fever, Cough, Fatigue, Loss of smell, Sore throat",False,False,None,15
+Matthew Hernandez,Male,52,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,True,None,12
+Sofia Martin,Female,34,"Fever, Cough, Fatigue, Loss of taste, Sore throat",True,True,None,16
+Liam Rodriguez,Male,43,"Fever, Cough, Fatigue, Loss of smell, Sore throat",True,True,None,14
+Amelia Garcia,Female,27,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,15
+William Moore,Male,49,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,False,None,14
+Evelyn Taylor,Female,35,"Fever, Cough, Fatigue, Loss of smell, Sore throat",False,True,None,16
+Daniel Hernandez,Male,53,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,13
+Harper Brown,Female,29,"Fever, Cough, Fatigue, Loss of smell, Sore throat",True,False,None,14
+James Lee,Male,44,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",True,False,None,16
+Ella White,Female,36,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,False,None,15
+Alexander Moore,Male,51,"Fever, Cough, Fatigue, Loss of smell, Sore throat",False,True,None,17
+Madison Gonzalez,Female,30,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,True,None,14
+Benjamin Brown,Male,47,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,False,None,15
+Avery Perez,Female,32,"Fever, Cough, Fatigue, Loss of smell, Sore throat",True,True,None,14
+Elijah Martinez,Male,54,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,16
+Scarlett Gonzalez,Female,33,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,14
+Ryan Johnson,Male,46,"Fever, Cough, Fatigue, Loss of smell, Sore throat",True,False,None,15
+Chloe Brown,Female,31,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",True,True,None,14
+Sophia Johnson,Female,47,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,False,None,14
+Henry Martinez,Male,38,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,13
+Aria Thompson,Female,29,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,15
+Lucas Garcia,Male,56,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",False,True,None,16
+Ella Smith,Female,42,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,False,None,14
+Jack Johnson,Male,35,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",True,True,None,12
+Avery White,Female,51,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,False,None,14
+Ethan Brown,Male,48,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,13
+Charlotte Harris,Female,33,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,15
+Oliver Martinez,Male,44,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,True,None,14
+Amelia Wilson,Female,37,"Fever, Cough, Fatigue, Loss of taste, Sore throat",True,False,None,16
+Logan Garcia,Male,49,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,14
+Harper Davis,Female,31,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",False,True,None,13
+Lucy Smith,Female,55,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,12
+Mason Johnson,Male,39,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",True,False,None,15
+Abigail Martinez,Female,46,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,True,None,14
+William Brown,Male,32,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,False,None,16
+Sophia White,Female,50,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,True,None,14
+Elijah Smith,Male,43,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,False,None,13
+Ava Johnson,Female,36,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,False,None,15
+Olivia Garcia,Female,52,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",True,True,None,14
+Michael White,Male,40,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,False,None,16
+Emma Smith,Female,34,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,12
+Noah Davis,Male,45,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,15
+Isabella Johnson,Female,30,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,True,None,14
+Liam Smith,Male,47,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,13
+Sophia Martinez,Female,39,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,16
+Ethan Wilson,Male,41,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",False,True,None,14
+Charlotte Johnson,Female,38,"Fever, Cough, Fatigue, Loss of taste, Sore throat",True,False,None,15
+Mason Davis,Male,53,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",True,True,None,14
+Ava Brown,Female,28,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",False,False,None,13
+Logan Wilson,Male,44,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,15
+Olivia Smith,Female,35,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,False,None,16
+Elijah Davis,Male,48,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",True,False,None,14
+Mia Johnson,Female,29,"Fever, Cough, Fatigue, Loss of taste, Sore throat",True,True,None,12
+Avery Johnson,Male,37,"Fever, Cough, Fatigue, Shortness of breath, Sore throat",False,True,None,15
+Harper Garcia,Female,54,"Fever, Cough, Fatigue, Loss of smell, Shortness of breath, Sore throat",False,False,None,14
+Liam Davis,Male,32,"Fever, Cough, Fatigue, Loss of taste, Sore throat",False,True,None,13
